@@ -1,5 +1,7 @@
 # DigiMFCar-Simulator
-## Installation Instructions for Donkey car in Ubuntu 20.04 for compatibility with Ardupilot and PX4 
+## Installation Instructions for Donkey car in Ubuntu 20.04 for compatibility with Ardupilot and PX4
+
+Video Tutorial here: (https://youtu.be/OzZRESrNndU)
 
 **SUPER SOS** update Linux with latest libraries
 ```bash
